@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.78ffa8ec.css",
+    "main.js": "/static/js/main.e2526ab4.js",
+    "static/js/787.d3befce1.chunk.js": "/static/js/787.d3befce1.chunk.js",
+    "static/media/bg-forest-Recuperado.png": "/static/media/bg-forest-Recuperado.5dbf3421aab9edeb1799.png",
+    "static/media/bg-forest.png": "/static/media/bg-forest.d93a1bc17a7e9de7a43d.png",
+    "static/media/about-dark.png": "/static/media/about-dark.7bb6c4f82414a5c71ddf.png",
+    "static/media/about-light.png": "/static/media/about-light.cb31f6d29e8531cb635e.png",
+    "static/media/project1.jpg": "/static/media/project1.a8ab27bc748fffa2eb49.jpg",
+    "static/media/project2.jpg": "/static/media/project2.bae94b312aae4e2d21e5.jpg",
+    "static/media/dark.png": "/static/media/dark.cd422224af69ff5e7162.png",
+    "static/media/light.png": "/static/media/light.eb00befe15ef7ae71a7e.png",
+    "static/media/sass.svg": "/static/media/sass.38497bdd8ac108bbbc8e49d43d3921cc.svg",
+    "static/media/whatsapp-black.svg": "/static/media/whatsapp-black.3922a1fb2be24eed159a4192f2d088f7.svg",
+    "static/media/whatsapp-white.svg": "/static/media/whatsapp-white.5fd966677c19237b00fb7b37b0c6aa39.svg",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/redux.svg": "/static/media/redux.0e4fb1c819ac4c060c92343147d4ccf7.svg",
+    "static/media/adobe-photoshop.svg": "/static/media/adobe-photoshop.29f7031af2e65fb2e5df57fb5287dd6f.svg",
+    "static/media/github-black.svg": "/static/media/github-black.f747e65b1b387a516ae92d2cd966ca94.svg",
+    "static/media/github-white.svg": "/static/media/github-white.e0355dc781033c6defbdba549ee2733b.svg",
+    "static/media/logomarca.svg": "/static/media/logomarca.b62d689f31185aa64a6dd97c0eaf6a9a.svg",
+    "static/media/logomarca2.svg": "/static/media/logomarca2.315789a2fd45824e21285d84057f5ee0.svg",
+    "static/media/js.svg": "/static/media/js.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/git.svg": "/static/media/git.b3f73afb1361d47dd238f8e5e884ff06.svg",
+    "static/media/adobe-illustrator.svg": "/static/media/adobe-illustrator.2504aae6a5be6eaaf33aab5d8d06ce6c.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.19c3fd09c600ab7007343a5d6cc5235a.svg",
+    "index.html": "/index.html",
+    "static/media/material-ui.svg": "/static/media/material-ui.62dcadca55388229a0da3303522ac495.svg",
+    "static/media/css.svg": "/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/linkedin-square-Black.svg": "/static/media/linkedin-square-Black.f3d6bf2732d631b5c71279e535d86375.svg",
+    "static/media/linkedin-square-White.svg": "/static/media/linkedin-square-White.aa75a49ba787fe9056268497a490e6bf.svg",
+    "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "main.78ffa8ec.css.map": "/static/css/main.78ffa8ec.css.map",
+    "main.e2526ab4.js.map": "/static/js/main.e2526ab4.js.map",
+    "787.d3befce1.chunk.js.map": "/static/js/787.d3befce1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78ffa8ec.css",
+    "static/js/main.e2526ab4.js"
+  ]
+}
